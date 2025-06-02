@@ -1,0 +1,1 @@
+open('file_handling/data.txt', 'w').write('Hello, World!')
